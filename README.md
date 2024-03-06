@@ -53,23 +53,24 @@ The storage engine, defined within the FileStorage class, manages all the classe
 # Commands :
 
 ### Create
-To create an object use format "create <ClassName>" 
+creates new object  
 
 ### Show
-To show an instance based on the class name and id. 
+show an object from a file.
 
 ### Destroy
-To Delete an instance of an object use "destroy <ClassName> id". 
-Destroy BaseModel 4848-4444-8888.
+destroys specified object 
 ### All
-all or all <class name> 
+display all objects in class
 
 ### Update
-Updates an instance based on the class name and id:
+updates attribute of an object
+
+### Help
+displays all commands
 
 ### Quit
 quit or EOF
 
-### Help
-help or help <command> 
+
 
