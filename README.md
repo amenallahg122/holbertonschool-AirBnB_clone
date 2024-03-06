@@ -32,19 +32,6 @@ EOF  help  quit
 $
 
 ```
-also in non-interactive mode:
-
-```bash
-$ echo "help" | ./console.py
-(hbnb)
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-(hbnb) 
-$
-
-```
 
 ## [storage]:
 
